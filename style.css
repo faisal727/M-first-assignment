@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   text-align: center;
+color: white;
+   
+   
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.background{
+    border: 2px solid yellow ;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-bottom: 20px;
+  background-image: url(donation7.jpg);
+}
+
+ 
+
+
+ 
