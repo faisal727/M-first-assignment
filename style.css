@@ -13,11 +13,50 @@ color: white;
 }
 .background{
     border: 2px solid yellow ;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
   padding-bottom: 20px;
   background-image: url(donation7.jpg);
 }
+.second{
+    color: black;
+}
+.donate{
+   
+  
+   color: blue;
+   
+}
+.k{
+    color: rgb(194, 24, 46);
+    background-image: rgb(23, 199, 38);
+    border: 10px 20px;
+}
+.taka{
+    color: black;
+}
+.a{
+    text-decoration: none;
+        background-image: linear-gradient(rgb(155, 151, 143), rgb(202, 155, 147));
+        padding: 10px 15px;
+       
+}
+.b{
+text-decoration: none;
+padding: 10px 15px;
+    
+    background-image: linear-gradient(rgb(224, 26, 102), rgb(221, 60, 24));
+}
+    
+    
+
+  
+ 
+
+
+  
+    
+
 
  
 
