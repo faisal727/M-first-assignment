@@ -30,23 +30,58 @@ color: white;
 .k{
     color: rgb(194, 24, 46);
     background-image: rgb(23, 199, 38);
-    border: 10px 20px;
+    border: 10px 30px;
 }
 .taka{
     color: black;
 }
 .a{
     text-decoration: none;
-        background-image: linear-gradient(rgb(155, 151, 143), rgb(202, 155, 147));
-        padding: 10px 15px;
-       
-}
+        background-image: linear-gradient(rgb(238, 237, 236), rgb(241, 240, 240));
+        padding: 10px 10px;
+        
+    }
+
 .b{
 text-decoration: none;
-padding: 10px 15px;
-    
-    background-image: linear-gradient(rgb(224, 26, 102), rgb(221, 60, 24));
+   border: 2px solid rgb(235, 21, 21);
+    padding: 10px 10px;
+    background-color: rgb(243, 189, 187);
+    color: rgb(206, 39, 39);
 }
+.third{
+    color: black;
+}
+.text{
+    color: black;
+    }
+    #flex{
+        display: flex;
+        margin-left: 15%;
+        margin-right: 15%;
+       
+        
+    }
+    .border{
+        margin: 5px 5px;
+        background-color: rgb(225, 233, 241);
+       
+        
+       
+    }
+    .margin{
+        margin-left: 5%;
+        margin-right: 80%
+    }
+    .bg{
+        margin: 5px 5px;
+        background-color: rgb(250, 210, 210);
+    }
+    .bc{
+        margin: 5px 5px;
+        background-color: antiquewhite;
+    }
+
     
     
 
